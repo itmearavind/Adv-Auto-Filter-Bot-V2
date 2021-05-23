@@ -206,6 +206,7 @@ async def auto_filter(bot, update):
                 text=f"""<i>Found {leng} Results For Your Query:</i> <b>{query}</b>\n\n <b>Powered By🔗</b><a href="https://t.me/Tamil LinkzZ">Tamil LinkzZ</a> 🔗""",
                 reply_markup=reply_markup,
                 parse_mode="html",
+                disable_web_page_preview=True,
                 reply_to_message_id=update.message_id
             )
 
