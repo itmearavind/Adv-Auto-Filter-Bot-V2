@@ -6,7 +6,7 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>Am Just A Advance Auto Filter Bot....😉
-Works only for @Tamil_LinkzZ 🤪 its ordee from my boss @its_me_Aravind   .
+Works only for @Tamil_LinkzZ 🤪 its order from my boss @its_me_Aravind   .
 
 For More Details Click Help Button Below..
 @JNS_BOTS 
